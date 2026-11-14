@@ -52,4 +52,4 @@ Later phases add: `vehicles/`, `traffic/`, `npc/`, `missions/`, `economy/`, `aud
 - Dev-mode passwords are salted + iterated SHA-256, never plaintext. Production auth is Firebase.
 
 ## License
-To be chosen by the project owner before publishing (code). Asset licences are tracked in `docs/ASSET_CREDITS.md`.
+Licence: MIT. Contact: devprakashsahu348@gmail.com. © Dev Prakash Sahu.
